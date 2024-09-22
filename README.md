@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola, soy Patricio! 👋
 
-<!--
-**PatricioMGM/PatricioMGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Full Stack | Entusiasta de IoT | Apasionado por aprender
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo React y Node.js.
+- 💼 Buscando nuevas oportunidades en el desarrollo de software.
+
+
+### 🌟 Proyectos destacados
+- [Proyecto 1](enlace): Breve descripción del proyecto.
+- [Proyecto 2](enlace): Breve descripción del proyecto.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=PATRICIOMGM&show_icons=true&theme=radical)
