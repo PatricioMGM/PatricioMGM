@@ -1,9 +1,9 @@
 # ¡Hola, soy **Patricio**! 👋
 
 <h3 align="center">Desarrollador Full Stack | Entusiasta de IoT | Apasionado por aprender</h3>
-
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 ---
-<div style"color: red;"=>
+<div>
     ¡Bienvenido a mi perfil de GitHub! Desarrollador Full Stack | IoT Enthusiast | Siempre aprendiendo nuevas tecnologías
 </div>
 
