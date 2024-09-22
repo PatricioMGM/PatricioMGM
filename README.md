@@ -1,14 +1,51 @@
-# ¡Hola, soy Patricio! 👋
+# ¡Hola, soy **Patricio**! 👋
 
-### Desarrollador Full Stack | Entusiasta de IoT | Apasionado por aprender
+<h3 align="center">Desarrollador Full Stack | Entusiasta de IoT | Apasionado por aprender</h3>
 
 ---
 
-- 🌱 Actualmente estoy aprendiendo React y Node.js.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Full+Stack;IoT+Enthusiast;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+</p>
+
+---
+
+- 🌱 Actualmente estoy aprendiendo **React** y **Node.js**.
 - 💼 Buscando nuevas oportunidades en el desarrollo de software.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 💻 Tecnologías que utilizo:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</p>
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=PATRICIOMGM&show_icons=true&theme=radical)
+---
+
+### 📊 **Estadísticas de GitHub**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PATRICIOMGM&show_icons=true&theme=radical" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATRICIOMGM&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
+
+---
+
+<h3 align="center">💬 ¡Conéctate conmigo!</h3>
+
+<p align="center">
+  <a href="www.linkedin.com/in/patricio-misael-gómez-morales-0017632a9" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:patriciomisael.gomm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PATRICIOMGM&label=Visitas%20al%20perfil&color=brightgreen" alt="contador de visitas" />
+</p>
