@@ -1,7 +1,9 @@
 # ¡Hola, soy **Patricio**! 👋
 
 <h3 align="center">Desarrollador Full Stack | Entusiasta de IoT | Apasionado por aprender</h3>
+
 ---
+
 <div>
     ¡Bienvenido a mi perfil de GitHub! Desarrollador Full Stack | IoT Enthusiast | Siempre aprendiendo nuevas tecnologías
 </div>
