@@ -3,10 +3,40 @@
 <h3 align="center">Desarrollador Full Stack | Entusiasta de IoT | Apasionado por aprender</h3>
 
 ---
+<style>
+        body {
+            background-color: #000;
+            color: #00FF00;
+            font-family: 'Fira Code', monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Full+Stack;IoT+Enthusiast;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
-</p>
+        .typing-demo {
+            font-size: 25px;
+            white-space: nowrap;
+            border-right: 2px solid;
+            width: 0;
+            overflow: hidden;
+            animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: #00FF00; }
+        }
+    </style>
+<div class="typing-demo">
+    ¡Bienvenido a mi perfil de GitHub! Desarrollador Full Stack | IoT Enthusiast | Siempre aprendiendo nuevas tecnologías
+</div>
 
 ---
 
