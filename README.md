@@ -10,11 +10,6 @@
 
 ---
 
-- 🌱 Actualmente estoy aprendiendo **React** y **Node.js**.
-- 💼 Buscando nuevas oportunidades en el desarrollo de software.
-
----
-
 ### 💻 Tecnologías que utilizo:
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
